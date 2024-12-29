@@ -48,6 +48,6 @@
 - 일관된 코드 스타일 유지
   - Google Style Guide
 
-GitHub Google Style Guide: https://github.com/google/styleguide
+GitHub Google Style Guide: https://github.com/google/styleguide <br/>
 IntelliJ Java Style: https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml
 
