@@ -51,3 +51,13 @@
 GitHub Google Style Guide: https://github.com/google/styleguide <br/>
 IntelliJ Java Style: https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml
 
+<h3> Branch Protection Rule </h3>
+
+- Settings → Branches
+  - 소규모 프로젝트 수행할 때 느슨한 보호 규칙 제공에 적합
+  - 푸시 권한이 있는 사용자 중 everyone or specify 설정이 가능
+  - 기존의 제공된 보호 규칙
+- Settings → Rules
+  - 협력자들과 함께 대규모 프로젝트 수행할 때 강한 보호 규칙 제공에 적합
+  - 푸시 권한이 있는 사용자 중 everyone or specify 설정이 불가능
+  - 향상된 브랜치 보호 규칙
